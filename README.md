@@ -26,39 +26,24 @@ Las novedades añadidas el projecto fuera de lo pedidos son:
 
 ## Imágenes
 > Programa instalado en nuestro dispositivo movil
-
 ![Screenshot](screenshots/Appenespañol.jpeg)
 
 > Config Activity (En español)
-
 ![Screenshot](screenshots/Configuración.jpeg)
 
 > Play Activity (En español)
-
 ![Screenshot](screenshots/Juego.jpeg)
- PLay Activity 2 (En español)
->
 ![Screenshot](screenshots/Juego2.jpeg)
 
 > EndPlay Acitivity
-
 ![Screenshot](screenshots/Resultado.jpeg)
 
-
 > Versión Inglesa
-
 ![Screenshot](screenshots/Appeninglés.jpeg)
-
-> Traducción Inglesa
-
 ![Screenshot](screenshots/Traduccióninglesa.jpeg)
 
 > Versión Coreana
-
 ![Screenshot](screenshots/Appencoreano.jpeg)
-
-> Traducción Coreana
-
 ![Screenshot](screenshots/Traduccióncoreana.jpeg)
 
 ## Comentario personal sobre el proyecto
