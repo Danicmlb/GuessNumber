@@ -33,6 +33,7 @@ Las novedades añadidas el projecto fuera de lo pedidos son:
 
 > Play Activity (En español)
 ![Screenshot](screenshots/Juego.jpeg)
+
 ![Screenshot](screenshots/Juego 2.jpeg)
 
 > EndPlay Acitivity
@@ -40,10 +41,12 @@ Las novedades añadidas el projecto fuera de lo pedidos son:
 
 > Versión Inglesa
 ![Screenshot](screenshots/App en inglés.jpeg)
+
 ![Screenshot](screenshots/Traducción inglesa.jpeg)
 
 > Versión Coreana
 ![Screenshot](screenshots/App en coreano.jpeg)
+
 ![Screenshot](screenshots/Traducción coreana.jpeg)
 
 ## Comentario personal sobre el proyecto
