@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="btSendConfigText">Play!</string>
+    <string name="etIntentosHint">Introduce the try amount</string>
+    <string name="etUserHint">Introduce username</string>
+    <string name="tvTituloText">Guess Number!</string>
+    <string name="btComprobarText">Check it</string>
+    <string name="btReintento">Retry</string>
+    <string name="tvResultadoFinalText">You win!</string>
+    <string name="tvResultadoFinalVictoriaText">You win!</string>
+    <string name="btVolverAJugar">Play Again</string>
+    <string name="tvUsuarioText">User:</string>
+    <string name="tvIntentosEstablecidosText">Attemps:</string>
+    <string name="tvTituloPlayText">Guess Number!</string>
+    <string name="tvUsuarioPlayText">User:</string>
+    <string name="etNumberHint">Number between 0 / 1000</string>
+</resources>

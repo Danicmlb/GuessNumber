@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".iu.ConfigActivity"
+    tools:ignore="MissingConstraints"
+    tools:layout_editor_absoluteX="1dp"
+    tools:layout_editor_absoluteY="1dp">
+
+
+    <TextView
+        android:id="@+id/tvTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/tvTituloText"
+        android:textFontWeight="@integer/material_motion_duration_long_1"
+        android:textSize="@dimen/tvTituloTextSize"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/tvMarginTop"/>
+
+
+    <TextView
+        android:id="@+id/tvResultadoFinalVictoria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/etPadding"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textSize="@dimen/tvResultadoFinalVictoriaTextSize"
+        android:layout_marginTop="@dimen/tvMarginTop"
+        android:text="@string/tvResultadoFinalVictoriaText" />
+
+    <TextView
+        android:id="@+id/tvResultadoExplicacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/etPadding"
+        android:layout_weight="1"
+        android:text="@string/tvResultadoExplicacionText" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/tvMarginTop"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/btVolverAJugar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/btMarginTop"
+            android:layout_weight="1"
+            android:padding="@dimen/etPadding"
+            android:text="@string/btVolverAJugar" />
+    </LinearLayout>
+
+</LinearLayout>
+</layout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">숫자 추측하기!</string>
+    <string name="tvTituloPlayText">숫자 추측하기!</string>
+    <string name="tvTituloText">숫자 추측하기!</string>
+    <string name="btSendConfigText">놀다!</string>
+    <string name="etIntentosHint">시도 횟수 입력</string>
+    <string name="etUserHint">사용자 입력</string>
+    <string name="btComprobarText">검사</string>
+    <string name="btReintento">재시도</string>
+    <string name="etNumberHint">0 / 1000; 사이의 숫자를 추측하십시오</string>
+    <string name="tvResultadoFinalText">당신은 이겼습니다.</string>
+    <string name="tvResultadoFinalVictoriaText">당신은 이겼습니다.</string>
+    <string name="btVolverAJugar">다시 재생</string>
+    <string name="tvUsuarioText">사용자:</string>
+    <string name="tvIntentosEstablecidosText">시도:</string>
+    <string name="tvUsuarioPlayText">사용자:</string>
+</resources>

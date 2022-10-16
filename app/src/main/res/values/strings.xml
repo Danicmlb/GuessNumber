@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">¡Adivina el Número!</string>
+    <string name="etUserText" translatable="false"></string>
+    <string name="etIntentosText" translatable="false"></string>
+    <string name="btSendConfigText">¡A Jugar!</string>
+    <string name="etIntentosHint">Introduce la cantidad de intentos</string>
+    <string name="etUserHint">Introduce usuario</string>
+    <string name="tvTituloText">¡Adivina el número!</string>
+    <string name="btComprobarText">Comprobar</string>
+    <string name="btReintento">Reintentar</string>
+    <string name="etNumberText" translatable="false" />
+    <string name="etNumberHint">Adivina el número entre 0 / 1000</string>
+    <string name="tvResultadoText" translatable="false" />
+    <string name="tvResultadoFinalText">¡Has ganado!</string>
+    <string name="tvResultadoFinalVictoriaText">¡Has Ganado!</string>
+    <string name="tvResultadoExplicacionText" translatable="false">El numero a adivinar era X y lo has conseguido en X/Y intentos.</string>
+    <string name="btVolverAJugar">Volver a jugar</string>
+    <string name="tvUsuarioText">"Usuario: "</string>
+    <string name="tvIntentosEstablecidosText">"Intentos establecidos: "</string>
+    <string name="tvTituloPlayText">¡Adivina el número!</string>
+    <string name="tvUsuarioPlayText">"Usuario: "</string>
+    <string name="tvIntentosText" translatable="false" />
+</resources>

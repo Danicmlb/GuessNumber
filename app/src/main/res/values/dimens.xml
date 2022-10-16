@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="etHeight">5dp</dimen>
+    <dimen name="tvTituloTextSize">40dp</dimen>
+    <dimen name="etPadding">20dp</dimen>
+    <dimen name="tvMarginTop">35dp</dimen>
+    <dimen name="btMarginTop">60dp</dimen>
+    <dimen name="tvResultadoFinalVictoriaTextSize">25dp</dimen>
+</resources>
